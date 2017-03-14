@@ -1,5 +1,8 @@
 _repo: Ardath--The-Story-of-a-Dead-Self_5114
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Corelli, Marie
@@ -14,6 +17,8 @@ creator:
 description: The story of an agnostic seeking answers. After visiting a monk, our
   main character seeks out Ardath, the field of flowers where he has been promised
   a visit from an angel.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5114#Ardath--The-Story-of-a-Dead-Self
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
